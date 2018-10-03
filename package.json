@@ -16,10 +16,6 @@
       },{
         "packageNames": ["react", "moment"],
         "masterIssueApproval": false
-      },{
-        "packagePatterns": ["^l"],
-        "packageNames": ["request"],
-        "groupName": "Llllllllll"
       }]
     }
 }
