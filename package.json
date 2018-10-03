@@ -15,6 +15,7 @@
         "schedule": "before 2am"
       },{
         "packageNames": ["react", "moment"],
+        "groupName": "foo packages",
         "masterIssueApproval": false
       }]
     }
