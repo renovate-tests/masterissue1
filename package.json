@@ -8,10 +8,14 @@
     "moment": "2.22.0"
     },
     "renovate": {
+      "prHourlyLimit": 1,
       "packageRules": [{
         "packageNames": ["chalk"],
         "masterIssueApproval": false,
         "schedule": "before 2am"
+      },{
+        "packageNames": ["react", "moment"],
+        "masterIssueApproval": false
       }]
     }
     }
