@@ -16,6 +16,9 @@
       },{
         "packageNames": ["react", "moment"],
         "masterIssueApproval": false
+      },{
+        "packagePatterns": ["^l"],
+        "groupName": "Llllllllll"
       }]
     }
 }
